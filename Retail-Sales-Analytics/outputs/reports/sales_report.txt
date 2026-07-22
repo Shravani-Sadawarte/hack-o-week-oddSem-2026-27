@@ -1,0 +1,42 @@
+============================================================
+RETAIL SALES ANALYTICS - SUMMARY REPORT
+============================================================
+Generated : 2026-07-22 05:00
+Records analyzed : 1000
+
+--- KEY PERFORMANCE INDICATORS ---
+Total Revenue          : Rs. 322,966.75
+Total Transactions     : 1000
+Total Quantity Sold    : 5510
+Average Order Value    : Rs. 322.97
+Total Gross Income     : Rs. 15,379.37
+Average Customer Rating: 6.97
+
+--- BRANCH PERFORMANCE ---
+Highest Revenue Branch : C
+Highest Rated Branch   : C
+Branch C generated the highest revenue (₹110,569), suggesting stronger footfall or operational performance at that location. Branch C earned the highest average customer rating, which may indicate service quality worth replicating across other branches.
+
+--- PRODUCT PERFORMANCE ---
+Highest Revenue Product Line: Food and beverages
+'Food and beverages' is the top revenue-generating product line, while 'Electronic accessories' sells the highest volume. If these differ, it signals an opportunity to review pricing or bundle strategy between high-volume and high-value categories.
+
+--- PAYMENT PREFERENCES ---
+Most Preferred Payment Method: Ewallet
+'Ewallet' is the most frequently used payment method. 'Cash' brings in the most total revenue, which is worth noting when prioritising checkout experience or promotional payment partnerships.
+
+--- CITY PERFORMANCE ---
+Highest Revenue City: Naypyitaw
+Naypyitaw is the highest-performing city by revenue (₹110,569). This location could be prioritised for inventory allocation, staffing, or targeted local marketing.
+
+--- TIME TRENDS ---
+Peak Sales Hour: 19:00
+Best Weekday   : Saturday
+Sales peak around 19:00, indicating this is the busiest window for staffing and promotions. Saturday is the strongest day of the week for revenue, making it a good candidate for flash sales or extended hours.
+
+--- CUSTOMER SATISFACTION ---
+Branch C has the highest average customer rating. Overall average satisfaction sits at 6.97/10. Correlation analysis shows a weak relationship (r=-0.04) between rating and transaction value, meaning satisfaction alone is not a strong predictor of how much a customer spends.
+
+============================================================
+End of Report
+============================================================
