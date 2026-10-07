@@ -1,0 +1,30 @@
+[
+  {
+    "model_name": "Color-Histogram-Baseline",
+    "supports_text": false,
+    "embedding_dim": 128,
+    "total_images": 500,
+    "generation_time_sec": 3.08,
+    "generation_ms_per_image": 6.17,
+    "storage_size_kb": 250.0,
+    "mean_search_latency_ms": 0.03,
+    "precision_at_1": 0.02,
+    "precision_at_5": 0.008,
+    "precision_at_10": 0.008,
+    "mrr": 0.0356
+  },
+  {
+    "model_name": "CLIP-ViT-B-32",
+    "supports_text": true,
+    "embedding_dim": 512,
+    "total_images": 500,
+    "generation_time_sec": 22.82,
+    "generation_ms_per_image": 45.64,
+    "storage_size_kb": 1000.0,
+    "mean_search_latency_ms": 0.06,
+    "precision_at_1": 0.1,
+    "precision_at_5": 0.084,
+    "precision_at_10": 0.072,
+    "mrr": 0.2116
+  }
+]
